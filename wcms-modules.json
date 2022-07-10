@@ -1,0 +1,13 @@
+{
+"version": 1,
+"themes": {
+"eds": {
+"name": "ed",
+"repo": "https://github.com/HiTman77/eds",
+"zip": "https://github.com/HiTman77/eds/archive/master.zip",
+"summary": "ed",
+"version": "1.0.1",
+"image": "https://raw.githubusercontent.com/HiTman77/eds/main/preview.jpg"
+}
+}
+}
